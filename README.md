@@ -11,5 +11,4 @@ This is an application created by me to demonstrate intent use in the checkboxes
 <img width="231" alt="" src="https://user-images.githubusercontent.com/66621092/116891890-dbcbf180-ac4c-11eb-94af-386136f4b48d.jpeg">
 
 # Download APK 
-[Download Link:]
-https://github.com/sarthak5620/Input_Constraints/blob/master/app-debug%20(4).apk
+[Download Link:](https://github.com/sarthak5620/Input_Constraints/blob/master/app-debug%20(4).apk)
